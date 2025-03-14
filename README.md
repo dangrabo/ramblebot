@@ -1,5 +1,6 @@
 # Ramblebot
-![image](https://github.com/user-attachments/assets/06f81f87-72c2-4e5c-a0f2-7e946b256050)
+![image](https://github.com/user-attachments/assets/aac2afc2-966d-4866-a0ac-12f32ea1da1d)
+
 
 A class project to exercise Java, JUnit, git, GitHub, and code-reading skills. Some shell methods were provided initially, but
 the vast majority of logic was written and implemented on my own.
